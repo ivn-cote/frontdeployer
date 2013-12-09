@@ -21,6 +21,7 @@
     "closurebuilder": "git://github.com/redscorpix/node-closurebuilder.git",
     "mkdirp": "*",
     "ncp": "*",
+    "node-uuid": "*",
     "ojster": "*"
   },
   "directories": {
