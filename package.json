@@ -1,0 +1,29 @@
+{
+  "name": "frontdeployer",
+  "version": "0.0.1",
+  "description": "Front deployer based on Compass, Google Closure",
+  "keywords": ["build", "closure", "compile", "module"],
+  "main": "frontdeployer",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/redscorpix/frontdeployer"
+  },
+  "author": {
+    "name": "Vladislav Yakovlev",
+    "email": "red.scorpix@gmail.com"
+  },
+  "preferGlobal": false,
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "async": ">=0.1.22",
+    "cssmap": "git://github.com/4u/cssmap.git",
+    "closurebuilder": "git://github.com/redscorpix/node-closurebuilder.git",
+    "mkdirp": "*",
+    "ncp": "*",
+    "ojster": "*"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
