@@ -19,6 +19,7 @@
     "async": ">=0.1.22",
     "cssmap": "git://github.com/4u/cssmap.git",
     "closurebuilder": "git://github.com/redscorpix/node-closurebuilder.git",
+    "ejs": ">= 0.8",
     "mkdirp": "*",
     "ncp": "*",
     "node-uuid": "*",
